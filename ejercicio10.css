@@ -1,0 +1,10 @@
+.cuadrado {
+    width: 100px;
+    height: 100px;
+    background-color: #3498db;
+    transition: all 1s ease-in-out;
+}
+.mover {
+    transform: translateX(400px);
+    background-color: #e74c3c;
+}
